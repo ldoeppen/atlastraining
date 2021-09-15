@@ -32,7 +32,7 @@ export default function Page() {
 
       <main className="content">
         <Hero
-          title="OK maybe later"
+          title="OK maybe"
           buttonText="Developer Docs"
           buttonURL="https://developers.wpengine.com/"
           button2Text="Headless on GitHub"
