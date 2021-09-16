@@ -32,12 +32,12 @@ export default function Page() {
 
       <main className="content">
         <Hero
-          title="OK maybe"
+          title="Oh Deer"
           buttonText="Developer Docs"
           buttonURL="https://developers.wpengine.com/"
           button2Text="Headless on GitHub"
           button2URL="https://github.com/wpengine/faustjs"
-          bgImage="/images/headless_hero_background.jpg"
+          bgImage="/images/7r_3000x2000.jpeg"
           id={styles.home_hero}>
           <p>
             WP&nbsp;Engine’s Headless WordPress Framework includes this example
